@@ -50,3 +50,4 @@ C:\Users\Adarsh\source\projects\TripsDataJan2015\obj\Debug\netcoreapp3.1\staticw
 C:\Users\Adarsh\source\projects\TripsDataJan2015\obj\Debug\netcoreapp3.1\TripsDataJan2015.dll
 C:\Users\Adarsh\source\projects\TripsDataJan2015\obj\Debug\netcoreapp3.1\TripsDataJan2015.pdb
 C:\Users\Adarsh\source\projects\TripsDataJan2015\obj\Debug\netcoreapp3.1\TripsDataJan2015.genruntimeconfig.cache
+C:\Users\Adarsh\source\projects\TripsDataJan2015\bin\Debug\netcoreapp3.1\package-lock.json
